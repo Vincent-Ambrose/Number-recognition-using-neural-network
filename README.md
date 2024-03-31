@@ -6,7 +6,7 @@ Let's build a neural network that allows the recognition of numbers
 
 Description of the project:
 
-This project aims to build a neural network that allows the recognition of numbers with an accuracy higher than 99%
+This project aims to build a neural network that allows the digits recognition with an accuracy higher than 99%
 
 The project is done in VS code with Jupyter Notebook extension.
 
